@@ -1,6 +1,6 @@
 # Covid Data Analysis with Grok
 
-A data analysis practice with Grok
+A data analysis practice with Grok. Grok demonstrated remarkable capabilities in this practice, and I believe AI could have a disruptive and revolutionary impact on the field of data analysis.
 
 ## Overview
 
