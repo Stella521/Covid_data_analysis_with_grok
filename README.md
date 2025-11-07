@@ -1,6 +1,6 @@
-# Covid Data Analysis with Grok
+# Covid Data Analysis
 
-A data analysis practice with Grok. Grok demonstrated remarkable capabilities in this practice, and I believe AI could have a disruptive and revolutionary impact on the field of data analysis.
+A data analysis practice with the help of Grok. 
 
 ## Overview
 
@@ -87,10 +87,13 @@ Ensure the dataset file is in the correct path and all dependencies are installe
 - **Global Trend Plot**: Cumulative and daily new cases over time. A significant spike in global daily new confirmed cases occurred on December 10, 2020, reflecting a peak in the pandemic’s winter wave.
 <img width="992" height="370" alt="image" src="https://github.com/user-attachments/assets/8a897e61-1709-44bf-ab7c-49317a36abf4" />
 <img width="1070" height="386" alt="image" src="https://github.com/user-attachments/assets/2437b568-a2e1-42be-a8da-a3341c281ca9" />
+
 - **Animated Bar Chart**: Top 10 countries by cumulative cases each month.
 <img width="1364" height="602" alt="image" src="https://github.com/user-attachments/assets/ca047a53-f08c-45fd-91e5-bccf20ed6213" />
+
 - **Choropleth Map**: Daily global distribution of confirmed cases.
 <img width="1052" height="686" alt="image" src="https://github.com/user-attachments/assets/4da7398f-7505-4a04-ae4c-a68a075044c0" />
+
 - **Heatmap**: Log-scale representation of monthly cases for top 10 countries.
 <img width="1001" height="681" alt="image" src="https://github.com/user-attachments/assets/bb56f6b3-2d2f-49f3-ba2a-79383a574d36" />
 
