@@ -56,16 +56,12 @@ pip install pandas plotly numpy
 covid_analysis/
 ├── data/
 │   └── time_series_covid_19_confirmed.csv  # Dataset file
-├── covid_analysis.ipynb                   # Jupyter Notebook source code
-├── covid_analysis.py                      # Converted Python script
-└── README.md                              # Project documentation
+├── covid_analysis.ipynb                    # Jupyter Notebook source code
+├── covid_analysis.py                       # Converted Python script
+└── README.md                               # Project documentation
 ```
 
 ## Usage
-### Prepare the Dataset
-1. Place time_series_covid_19_confirmed.csv in the data/ directory.
-2. The dataset can be downloaded from the Johns Hopkins University GitHub.
-
 ## Run the Code
 ### Jupyter Notebook
 ```bash
